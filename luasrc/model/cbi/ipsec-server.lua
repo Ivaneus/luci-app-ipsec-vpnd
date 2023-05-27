@@ -1,6 +1,6 @@
 mp = Map("ipsec")
 mp.title = translate("IPSec VPN Server")
-mp.description = translate("IPSec VPN connectivity using the native built-in VPN Client on iOS or Andriod (IKEv2 PSK & IKEv1 Xauth PSK)<br />IKEv2 Client Mention:<br />Android Client Plsease set IPsec Identifier with psk")
+mp.description = translate("IPSec VPN connectivity using the native built-in VPN Client on iOS or Andriod (IKEv2 PSK & IKEv1 Xauth PSK)<br />IKEv2 Client Mention:<br />Android Client Plsease Set IPsec Identifier With PSK<br />IOS Client Plsease Set Remote ID With PSK")
 
 mp:section(SimpleSection).template  = "ipsec/ipsec_status"
 
