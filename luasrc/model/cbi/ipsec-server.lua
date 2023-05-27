@@ -8,7 +8,7 @@ s = mp:section(NamedSection, "ipsec", "service")
 s.anonymouse = true
 
 enabled = s:option(Flag, "enabled", translate("Enable"))
-enabled.description = translate("IKEv2 Client Mention:<br />Android Client Plsease Set IPsec Identifier With PSK<br />IOS Client Plsease Set Remote ID With PSK"）
+enabled.description = translate("IKEv2 Client Mention:<br />Android Client Plsease Set IPsec Identifier With PSK<br />IOS Client Plsease Set Remote ID With PSK")
 enabled.default = 0
 enabled.rmempty = false
 
