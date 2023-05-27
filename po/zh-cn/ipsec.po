@@ -1,8 +1,8 @@
 msgid "IPSec VPN Server"
 msgstr "IPSec VPN 服务器"
 
-msgid "IPSec VPN connectivity using the native built-in VPN Client on iOS or Andriod (IKEv2 PSK & IKEv1 Xauth PSK)"
-msgstr "使用iOS 或者 Andriod (IKEv2 PSK & IKEv1 Xauth PSK) 原生内置 IPSec VPN 客户端进行连接"
+msgid "IPSec VPN connectivity using the native built-in VPN Client on iOS or Andriod (IKEv2 PSK & IKEv1 Xauth PSK)<br />IKEv2 Client Mention:<br />Android Client Plsease Set IPsec Identifier With PSK<br />IOS Client Plsease Set Remote ID With PSK"
+msgstr "使用iOS 或者 Andriod (IKEv2 PSK & IKEv1 Xauth PSK) 原生内置 IPSec VPN 客户端进行连接<br />IKEv2 客户端使用须知:<br />安卓客户端请将IPsec标识符设置为PSK密钥<br />苹果客户端请将远程ID设置为PSK密钥"
 
 msgid "VPN Client IP"
 msgstr "VPN客户端地址段"
